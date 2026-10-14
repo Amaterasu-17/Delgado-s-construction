@@ -1,11 +1,9 @@
 # Delgado’s Construction
 
-Static business website with residential and commercial services, Google customer reviews, project planner, construction animation, estimate email composer and Square invoice requests.
+Static family-owned construction business website. Includes residential and commercial services, verified customer reviews, genuine Facebook project previews, email estimate preparation, a five-hit HAMMER5 discount challenge, Square hosted payments and an external New Jersey homeowner financing resource.
 
-Render configuration:
-- Build command: `sh build.sh`
-- Publish directory: `dist`
+Deploy on Render using build command `sh build.sh` and publish path `dist`.
 
-Contact: (856) 515-9448 · delgadosconstruction609@gmail.com
+Project photographs are publicly visible previews from the company Facebook gallery. They show work in progress; full-resolution originals require sign-in. The hammer is a generated transparent catalogue-style asset, not a project photograph.
 
-The hero photograph is illustrative stock imagery sourced from Unsplash; it is not presented as a completed company project. Payment requests open email; direct card checkout requires the company's Square checkout link.
+The discount is included in estimate inquiries; it is applied by Delgado’s Construction to the estimate, not automatically by Square checkout. Contact forms prepare an email and do not send it automatically.
